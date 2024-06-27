@@ -1,5 +1,6 @@
 # Ex-Breast-Cancer-Survival
 
+Dataset from https://www.kaggle.com/datasets/raghadalharbi/breast-cancer-gene-expression-profiles-metabric. 
 Code for the biomarker exercise on breast cancer survival. 
 
 * Compute a PCA (marked with TODO in the code)
