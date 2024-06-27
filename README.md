@@ -2,9 +2,9 @@
 
 Code for the biomarker exercise on breast cancer survival. 
 
-a) Compute a PCA (marked with TODO in the code)
-b) Explain what happened in the code
-c) Change the gene panel to whatever you want and report on your results
+* Compute a PCA (marked with TODO in the code)
+* Explain what happened in the code
+* Change the gene panel to whatever you want and report on your results
 
 You can either clone this repository and work locally on your notebook or work in Google Colab. Locally, we advise you to create a conda environment or a virtual environment. In this, you need to install notebook, pandas, numpy, scikit-learn, scikit-survival, and seaborn. 
 You can, e.g., do this with: 
